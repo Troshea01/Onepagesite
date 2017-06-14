@@ -1,0 +1,264 @@
+.container {
+  width:1366px;
+  display: block;
+  margin: 0 auto;
+}
+.topbar {
+  background-color: #53bafa;
+  color:#ffffff;
+  padding:15px 0;
+}
+.login-signup button {
+  border:none;
+  background-color: #333333;
+  color:#ffffff;
+  font-weight: bold;
+  padding:10px 15px;
+  margin-right:25px;
+}
+.login-signup button:hover {
+  background-color: #555555;
+  color: #eeeeee;
+}
+   outline:none;
+}
+.topbar input {
+  border:none;
+  background: #efefef;
+  padding:10px 5px;
+}
+.white {
+  color:#ffffff;
+}
+.white::-webkit-input-placeholder {
+    color: #333333;
+}
+.dark {
+  color:#333333;
+}
+.search{
+  margin-right:25px;
+}
+.float-right {
+  float:right;
+}
+.clearfix {
+  display:block;
+  width: 100%;
+  clear: both;
+  float: none;
+}
+section {
+  width: 100%;
+}
+.banner {
+  position:relative;
+  margin: 0 auto;
+  left:510px;
+}
+.banner-image h1{
+   position: absolute;
+  font-family: 'Anton', sans-serif;
+  padding: 220px;
+  color: #ffffff;
+  margin 0 auto;
+  font-size:55px;
+}
+.logo {
+  width:50px;
+  position: absolute;
+  top:33px;
+  left:66px;
+}
+.logo img {
+  width:200px;  
+}
+.banner-image {
+  display:block;
+  width: 100%
+  background-image: url(cpt.PNG);
+  background-size: cover;
+  height:350px;
+  padding-top: 10px;
+}
+.navbar nav ul li{
+  font-family: 'Roboto', sans-serif;
+  padding: 190px 0px 0px 25px;
+  display: inline-block;
+  font-size: 20px;
+  margin-right:150px;
+}
+.menubar{
+  background-color: #ab7cb2;
+  color:#ffffff;
+  padding:10px 0;
+  padding-top: -70px;
+  height:35px;
+} 
+.aboutsection{
+  font-size: 22PX;
+  font-family: 'Roboto', sans-serif; 
+  padding-top: 170px;
+  background-color: #DADFE1;
+  color: #6C7A89
+}
+.aboutsection p{
+padding:0 350px;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 110px;
+}
+.aboutsection h1{ 
+font-family: 'Roboto', sans-serif; 
+text-align: center;
+color: #8E44AD
+ }
+.discount-packages h1{
+font-family: 'Roboto', sans-serif; 
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center; 
+background-color: #ab7cb2;
+color: #ecf0f1 
+}
+.discount-images .btn img{
+padding: 20px;
+padding: 50px;
+}
+.article-section-title{
+background-color: #ab7cb2;
+color: #ecf0f1
+}
+.article-section-title h1{
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center;
+font-family: 'Roboto', sans-serif;  
+}
+.article {
+  display: block;
+  width:1236px;
+  background-color:#d0d3d8;
+  padding:15px;
+}
+.article-text {
+  font-family: 'Roboto', sans-serif;
+  width:500px;
+}
+.review {
+  background-color: #a0a2a5;
+  padding:0 15px 15px 15px;
+}
+.review-title {
+  background-color: #b191c4;
+  color:#ffffff;
+}
+.review-title h3 {
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  padding: 10px;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+
+.article-image .one{
+
+  float: left;
+  padding-left: 250px;
+  margin-right: 50px;
+  padding-top: 100px;
+}
+
+.clearfix{
+
+  display: block;
+  width: 100%;
+  clear: both;
+  float: none;
+}
+
+.btn{
+width: 100px;
+}
+
+ .article-picture .two{
+  float: right;
+  padding-left: 100px;
+  margin-right: 50px;
+  padding-top: 100px;
+}
+
+.btn-2 .button1{
+width: 100px;
+}
+.review-suncity img{
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center; 
+padding-left:100px; 
+}
+.review-text ul li{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+width:200px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.review-container{
+  text-align: center;
+  width: 1000px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.review-container{
+padding-left: 100px;
+}
+.contact-footer{
+  font-family: 'Roboto', sans-serif; 
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center; 
+background-color: #53bafa;
+color: #ecf0f1;
+}
+.contact-heading h1{
+font-family: 'Roboto', sans-serif; 
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center; 
+background-color: #53bafa;
+color: #ecf0f1;
+}
+.contact{
+  font-family: 'Roboto', sans-serif;
+ border:none;
+  background-color: #a0a2a5;
+  color:#ffffff;
+  font-weight: bold;
+  padding:10px 15px;
+  margin-right:25px;
+}
+.logo-footer img{
+width:200px; 
+margin-left:25px;
+padding-top: 30px;
+padding-bottom: 30px;
+position: absolute;
+}
+.row{
+font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+ border:none;
+  background-color: #a0a2a5;
+  color:#ffffff;
+  font-weight: bold;
+  padding:10px 15px;
+  margin-right:25px; 
+}
+.travel-footer img{
+  width: 100px;
+}
